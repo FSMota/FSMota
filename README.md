@@ -1,6 +1,5 @@
-### Hi there 👋
 
-## Olá eu sou o Filipe! 
+## Olá eu sou o Filipe! 👋
 <a href="https://github.com/filipemota130" style="width: 100%;">
   
   <div style="display:flex;justify-content:space-between;width:100%;">
