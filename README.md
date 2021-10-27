@@ -4,6 +4,10 @@
 * 👨‍💻 Currently im focus in Web development and mobile development front-end and back-end
 * 🎸 Love music and play some guitar and programming 🧑‍💻❤️
 * 🕴 Searching by a job or Internship on this areas ☝️☝️
+## Where you can Find me! 👋
+* Email: filipe_simoes@outlook.com, fsmota@ic.ufal.br, filipesimoesmotao@gmail.com ;
+* Instagram: @filipe.mota20 ;
+* Linkedin: https://www.linkedin.com/in/filipe-mota-87a544208/
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemota130&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
