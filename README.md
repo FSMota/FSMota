@@ -11,9 +11,9 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemota130&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemota130&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemota130&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and frameworks that im already worked 🛠💻
+# Languages and frameworks that im already worked 🛠💻
 <a href="https://github.com/filipemota130" style="width: 100%;">
 
 <div>
