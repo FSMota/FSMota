@@ -4,10 +4,10 @@
 * 👨‍💻 Currently im focus in Web development and mobile development front-end and back-end
 * 🎸 Love music and play some guitar and programming 🧑‍💻❤️
 * 🕴 Searching by a job or Internship on this areas ☝️☝️
-<div>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemota130&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/filipemota130" style="width: 100%;">
-<div>
+  
 <div>
   
   <br>
