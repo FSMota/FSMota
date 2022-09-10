@@ -6,7 +6,7 @@
 * 🕴 Searching by a job or Internship on this areas ☝️☝️
 ## Where you can Find me! 👋
 * Email: filipe_simoes@outlook.com, fsmota@ic.ufal.br, filipesimoesmotao@gmail.com ;
-* Instagram: @filipe.mota20 ;
+* Instagram: @filipe.mota21 ;
 * Linkedin: https://www.linkedin.com/in/filipe-mota-87a544208/
 <br>
 
