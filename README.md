@@ -4,6 +4,7 @@
 * 👨‍💻 Currently im focus in Web development and mobile development front-end and back-end
 * 🎸 Love music and play some guitar and programming 🧑‍💻❤️
 * 🕴 Searching by a job or Internship on this areas ☝️☝️
+* 💼 Currently i'm trainee in SEDUC-AL (Secretaria da Educação - Alagoas)
 ## Where you can Find me! 👋
 * Email: filipe_simoes@outlook.com, fsmota@ic.ufal.br, filipesimoesmotao@gmail.com ;
 * Instagram: @filipe.mota21;
@@ -17,7 +18,6 @@
 <a href="https://github.com/filipemota130" style="width: 100%;">
 
 <div>
-  
   <br>
   <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" style="max-width:100%;">
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
@@ -35,6 +35,5 @@
     <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="max-width:100%;">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
 </div>
-
 </a>
 
