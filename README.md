@@ -17,7 +17,7 @@
 ## Languages and frameworks that im already worked 🛠💻
 <a href="https://github.com/filipemota130" style="width: 100%;">
   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)![Vue](https://img.shields.io/badge/vue-%23E34F26.svg?style=for-the-badge&logo=vue&logoColor=white)
 
 <div>
   <br>
