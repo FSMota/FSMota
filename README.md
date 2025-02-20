@@ -7,15 +7,15 @@
 * 💼 Currently i'm trainee in SEDUC-AL (Secretaria da Educação - Alagoas)
 ## Where you can Find me! 👋
 * Email: filipe_simoes@outlook.com, fsmota@ic.ufal.br, filipesimoesmotao@gmail.com ;
-* Instagram: @filipe.mota21;
+* Instagram: @filipe.smota;
 * Linkedin: https://www.linkedin.com/in/filipe-mota-87a544208/
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemota130&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemota130&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FSMota&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSMota130&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and frameworks that im already worked 🛠💻
-<a href="https://github.com/filipemota130" style="width: 100%;">
+<a href="https://github.com/FSMota" style="width: 100%;">
 
 <div>
   <br>
