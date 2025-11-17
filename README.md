@@ -4,7 +4,7 @@
 * 👨‍💻 Currently im focus in Web development and mobile development front-end and back-end
 * 🎸 Love music and play some guitar and programming 🧑‍💻❤️
 * 🕴 Searching by a job or Internship on this areas ☝️☝️
-* 💼 Currently i'm trainee in SEDUC-AL (Secretaria da Educação - Alagoas)
+* 💼 Currently i'm FullStack developer in EASY | Centro de Pesquisa em Engenharia e Sistemas
 ## Where you can Find me! 👋
 * Email: filipe_simoes@outlook.com, fsmota@ic.ufal.br, filipesimoesmotao@gmail.com ;
 * Instagram: @filipe.smota;
