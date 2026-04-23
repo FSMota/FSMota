@@ -17,7 +17,7 @@
 ## Languages and frameworks that im already worked 🛠💻
 <a href="https://github.com/FSMota" style="width: 100%;">
 
-<div>
+<div style="display: flex;">
   <br>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" style="max-width:100%;">
   <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;">
